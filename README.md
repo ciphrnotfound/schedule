@@ -1,2 +1,1 @@
-# schedule
-Repository for scheduled workflow
+# Schedule
